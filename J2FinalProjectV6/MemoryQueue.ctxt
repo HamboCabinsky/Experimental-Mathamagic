@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MemoryQueue
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MemoryQueue\ here.\r\n\r\n\ @author\ Christian\ Bonin\r\n\ @version\ 5/7/2019\r\n
+comment1.params=
+comment1.target=MemoryQueue()
+comment1.text=\r\n\ Arraylist\ adds\ elements\ at\ the\ end\ but\ still\ has\ easy\ access\ to\ them\r\n\ I\ wanted\ something\ that\ would\ delete\ overflowing\ elements\ automatically\r\n\ but\ could\ quickly\ recall\ the\ most\ recently\ added\r\n\ Removing\ elements\ in\ chunks\ of\ 10\ for\ the\ sake\ of\ efficiency\r\n
+comment2.params=maxSize
+comment2.target=MemoryQueue(int)
+comment3.params=elem
+comment3.target=boolean\ add(java.lang.Object)
+comment4.params=depth
+comment4.target=java.lang.Object\ recall(int)
+numComments=5

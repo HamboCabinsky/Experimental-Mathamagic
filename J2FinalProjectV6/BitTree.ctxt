@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=BitTree
+comment0.text=\r\n\ A\ tree\ where\ all\ nodes\ except\ root\ are\ 0s\ and\ 1s\r\n\ Useful\ for\ making\ power\ sets\r\n\r\n\ @author\ Christian\ Bonin\r\n\ @version\ 5/9/2019\r\n
+comment1.params=value
+comment1.target=BitTree(boolean)
+comment2.params=tree\ depth
+comment2.target=void\ construct(BitTree,\ int)
+comment3.params=
+comment3.target=void\ addLeft()
+comment4.params=
+comment4.target=void\ addRight()
+comment5.params=
+comment5.target=int\ getDepth()
+comment6.params=
+comment6.target=java.util.BitSet[]\ getBitSets()
+comment7.params=setsIndex\ depth
+comment7.target=java.util.BitSet\ getBitSetsSub(int,\ int)
+comment8.params=
+comment8.target=java.util.BitSet[]\ sort()
+numComments=9

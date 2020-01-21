@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Tree
+comment0.text=\r\n\ Very\ minimalistic\ generic\ binary\ tree\ class\r\n\ I\ started\ by\ using\ a\ nested\ Node\ class\ but\ ultimately\r\n\ found\ this\ a\ lot\ easier\ to\ work\ with\r\n\ \r\n\ @author\ Christian\ Bonin\r\n\ @version\ 5/7/2019\r\n
+comment1.params=value
+comment1.target=Tree(java.lang.Object)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ generic\ Tree\ class\r\n
+comment2.params=value
+comment2.target=void\ addLeft(java.lang.Object)
+comment3.params=value
+comment3.target=void\ addRight(java.lang.Object)
+numComments=4

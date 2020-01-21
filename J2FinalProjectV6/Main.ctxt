@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ Begins\ program\ execution\r\n\ \r\n\ Display\ needs\ to\ have\ its\ own\ class\ separate\ from\ Main\ to\ take\ advantage\r\n\ of\ the\ Keylistener\ interface\ I'm\ implementing\ to\ read\ text\ input\ from\ the\ JFrame\r\n\r\n\ @author\ Christian\ Bonin\r\n\ @version\ 5/6/2019\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
